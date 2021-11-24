@@ -1,0 +1,136 @@
+ 
+#nav{
+    background-color: #202649 ;
+    display: flex;
+    text-align: center;
+
+    
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    background-color: #202649 ;
+    width: 100%;
+    color: white;
+    
+}
+li{
+    display:inline;
+
+   
+
+}
+li a{
+   
+    width: 60px;
+    color: white;
+    margin: 14px 16px;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+    
+}
+li a hover{
+    text-decoration: underline;
+
+}
+.name{
+
+    background-color: #202649 ;
+    color: white;
+    text-align: center;
+}
+
+#subscribe{
+    background-color: #202649 ;
+    border-color:white;
+    color: white;
+    padding: 6px 18px;
+     border-radius: 4px;
+    margin: 6px;
+}
+#hello{
+    background-color:#202649 ;
+    color: white;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    font-size: 60px;
+    padding: 10px;
+    border-radius: 20px; 
+    float:right;
+    padding-top: 40px;
+    margin-top: 60px;
+    margin-right: 60px;
+    border-color: none;
+
+}
+#profile{
+    width:500px;
+    height: 450px;
+    border-radius: 50%;
+    border: 10px solid #e2e2e9;
+ 
+    margin-top:40px;
+    margin-left: 60px;
+}
+#banner{
+    margin-top: 150px;
+    margin-left: 400px;
+    width:  250px;
+    height:     200px;
+    border-radius: 50%;
+    border:5px solid #e2e2e9;
+    position: absolute;
+   top:-10px;
+  left:0px;
+
+
+}
+#Flex-container1{
+    display: flex;
+    background-color: #ffffff ;
+  }
+  
+  
+  #Flex-container1 > div{
+
+  
+
+    background-color: #202649;
+  
+    
+    font-size: 30px;
+  }
+
+  .two{
+      margin-top: 30px;
+      margin-left: 3px;
+      margin-right: 3px;
+      margin-bottom: 5px;
+      padding:200px;
+  }
+  .one{
+    margin-top: 60px;
+      margin-left: 20px;
+      margin-right: 2px;
+      padding-top: 300px;
+      
+      padding-left: 150px;
+      padding-right: 150px;
+      margin-bottom: 30px;
+  }
+  
+  .three{
+    margin-top: 60px;
+    margin-left: 2px;
+    margin-right:20px;
+    padding: 150px;
+    margin-bottom:30px;
+}
+
+  
+  
