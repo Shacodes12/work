@@ -131,6 +131,70 @@ li a hover{
     padding: 150px;
     margin-bottom:30px;
 }
+.flex-container1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
 
-  
-  
+}
+
+  img{
+      width: 379px;
+      display: block;
+      margin: 34px;
+      border-bottom: 20px
+  }
+  #Flex-container1 {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+}
+
+.text {
+    display: inline;
+}
+      /*#name1{
+        position: absolute;
+        width: 184px;
+        height: 28px;
+        left: 977px;
+        top: 612px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 28px;
+        
+        color: #FFFFFF;
+      }        
+      */
+#form{
+    border: 2px solid black;
+    width: 628px;
+    height: 326px;
+
+}
+#subscribe1{
+    border-radius: 20px;
+    background-color: #202649;
+    padding: 10px;
+    width: 200px;
+    display: flex;text-align: center;
+    margin:150px;
+    font-family: Roboto;
+    text-align: center;
+    
+
+
+
+}
+input{
+    width: 200px;
+    position: absolute;
+    left: 30;
+
+}

@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  
+  
+  
+  
+  #nav{
+    background-color: #202649 ;
+    display: flex;
+    text-align: center;
+
+    
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    overflow: hidden;
+    background-color: #202649 ;
+    width: 100%;
+    color: white;
+    
+}
+li{
+    display:inline;
+
+   
+
+}
+li a{
+   
+    width: 60px;
+    color: white;
+    margin: 14px 16px;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+    
+}
+li a hover{
+    text-decoration: underline;
+
+}
+.name{
+
+    background-color: #202649 ;
+    color: white;
+    text-align: center;
+}
+
+#subscribe{
+    background-color: #202649 ;
+    border-color:white;
+    color: white;
+    padding: 6px 18px;
+     border-radius: 4px;
+    margin: 6px;
+}
+
+#Flex-container1{
+
+    display:flex;
+    clear: both;
+  
+    
+}
+  
+  .one {
+    width: 25%;
+    height:495px ;
+    background-color: #202649;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-right: 5px;
+    margin-left: 20px;
+   
+    
+
+    
+  }
+  .three{
+    width: 25%;
+    height:495px ;
+    background-color: #202649;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-right: 20px;
+    margin-left: 5px;
+  
+    
+
+
+  }
+  
+   
+  .two {
+    width: 50%;
+    height:575px ;
+   margin-top: 40px;
+   margin-bottom: 40px;
+   
+    
+    padding-top: 300px;
+    text-align: center;
+    background-color: #202649;
+    Font-family: Roboto;
+  Font-style: Bold;
+  Font-size: 24px;
+  Line-height: 28px;
+  Line-height: 100%;
+
+
+  display: table;
+
+  color: #ffffff;
+  }
+  
